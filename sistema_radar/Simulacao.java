@@ -5,7 +5,7 @@ public class Simulacao {
         Carro supra=new Carro();
         supra.ano = 94;
         supra.modelo = "MKIV";
-        supra.placa ="2FAST4U";
+        supra.placa ="3NTO305";
         supra.velocidade = 0;
 
         Radar radar=new Radar();
